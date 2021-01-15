@@ -1,0 +1,13 @@
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgb(7, 0, 70);
+	border-top: 2px rgba(0, 17, 255, 0.815) solid;
+}
+.footer > p {
+	margin: 40px;
+	font-size: 18px;
+	font-weight: 600;
+	color: white;
+}

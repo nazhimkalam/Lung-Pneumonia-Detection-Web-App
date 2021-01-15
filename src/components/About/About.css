@@ -1,0 +1,12 @@
+.about > h2 {
+	font-size: 30px;
+}
+.about > p{
+    margin: 15px 10px;
+}
+.about__symptoms{
+    margin: 20px;
+}
+.about__symptoms > p{
+    margin: 5px;
+}

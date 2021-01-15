@@ -1,0 +1,20 @@
+.app__about {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	margin: 50px;
+}
+
+.app__body {
+	margin-top: 70px;
+}
+.app__aboutImages {
+	display: flex;
+	flex-direction: column;
+	height: 700px;
+	justify-content: space-evenly;
+}
+.app__about > div > img {
+	object-fit: contain;
+	height: 200px;
+}

@@ -1,0 +1,12 @@
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgb(7, 0, 70);
+	border-bottom: 2px rgba(0, 17, 255, 0.815) solid;
+}
+.header > h1 {
+	margin: 20px;
+	font-size: 35px;
+	color: white;
+}
